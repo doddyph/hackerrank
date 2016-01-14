@@ -1,0 +1,8 @@
+package com.hackerrank.srin_aadc;
+
+public class PanjulsNumber {
+	
+	public static void main(String[] args) {
+		System.out.println("hello");
+	}
+}

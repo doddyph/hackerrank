@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;numbers&apos; in &apos;com.hackerrank.srin_aadc.PanjulsNumber.main(...)&apos; to &apos;bag&apos;&#x0A;- Original project: &apos;srin-aadc&apos;&#x0A;- Original element: &apos;com.hackerrank.srin_aadc.PanjulsNumber.main(String[]).numbers&apos;&#x0A;- Renamed element: &apos;numbers&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;numbers&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.hackerrank.srin_aadc{PanjulsNumber.java[PanjulsNumber~main~\[QString;@numbers!347!367!353!359!\[I!0!false" name="bag" references="true" stamp="1452789556654" version="1.0"/>
+</session>

@@ -1,0 +1,18 @@
+package com.hackerrank.srin_aadc;
+
+import java.io.FileInputStream;
+import java.util.Scanner;
+
+public class PanjulsNumber {
+	
+	public static void main(String[] args) throws Exception {
+		FileInputStream inputStream = new FileInputStream("res/panjulsnumber.txt");
+		Scanner sc = new Scanner(inputStream);
+		
+		int T = sc.nextInt();
+		
+		for (int i = 1; i < T+1; i++) {
+			System.out.println("#"+i);
+		}
+	}
+}
